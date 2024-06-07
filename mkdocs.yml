@@ -1,7 +1,15 @@
 site_name: Car Thing Hax
-theme: 
-  name: mkdocs
+theme:
+  name: material
   color_mode: auto
   user_color_mode_toggle: true
+
+nav:
+  - Home: index.md
+  - Projects: projects.md
+  - Tutorials:
+      - Windows: tutorials/windows.md
+      - Linux: tutorials/linux.md
+      - Mac: tutorials/mac.md
 
 copyright: Copyright &copy; 2024 Car Thing Hax, Maintained by the <a href="https://discord.gg/ZGURgxtaGM">Car Thing Hax Community</a>
