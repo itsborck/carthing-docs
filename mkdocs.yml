@@ -7,9 +7,9 @@ theme:
 nav:
   - Home: index.md
   - Projects: projects.md
-  - Tutorials:
-      - Windows: tutorials/windows.md
-      - Linux: tutorials/linux.md
-      - Mac: tutorials/mac.md
+  - Installation:
+      - Windows: installation/windows.md
+      - Linux: installation/linux.md
+      - Mac: installation/mac.md
 
 copyright: Copyright &copy; 2024 Car Thing Hax, Maintained by the <a href="https://discord.gg/ZGURgxtaGM">Car Thing Hax Community</a>
